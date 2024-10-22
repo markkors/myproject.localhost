@@ -1,0 +1,15 @@
+{
+    "name": "markk/myproject.localhost",
+    "autoload": {
+        "psr-4": {
+            "Markk\\MyprojectLocalhost\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "markk",
+            "email": "m.kors@rocmn.nl"
+        }
+    ],
+    "require": {}
+}
